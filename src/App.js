@@ -1,4 +1,7 @@
 import React, { useState } from "react";
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
 export default function App() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
