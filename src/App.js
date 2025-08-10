@@ -76,4 +76,22 @@ const styles = {
     border: "1px solid #ccc",
     borderRadius: "8px",
     outline: "none",
-    fontSize: "14p
+    fontSize: "14px",
+  },
+  button: {
+    background: "#5563DE",
+    color: "#fff",
+    padding: "10px",
+    border: "none",
+    borderRadius: "8px",
+    cursor: "pointer",
+    fontSize: "15px",
+    marginTop: "10px",
+    transition: "0.3s",
+  },
+  message: {
+    marginTop: "15px",
+    fontWeight: "bold",
+    color: "#333",
+  },
+};
